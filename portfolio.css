@@ -1,0 +1,20 @@
+
+body{
+    box-flex-group:rgb(121, 220, 238);
+    text-decoration: dotted;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(133, 195, 208);
+}
+h1{
+    align-items: baseline;
+    color: #130961b1;
+}
+projects{
+    background-color: #530637b1;
+    margin-block-start: 0cqh;
+    padding: auto;
+}
+Skills{
+    align-items:last baseline;
+}
